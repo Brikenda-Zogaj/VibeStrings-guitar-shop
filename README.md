@@ -1,8 +1,4 @@
-# VibeStrings - Online Guitar Shop 🎸
-
-<div align="center">
-  <img src="./screenshots/Butterfly1.png" alt="VibeStrings Banner" width="800"/>
-</div>
+# VibeStrings - Online Guitar Shop 
 
 <p align="center">
   <em>A modern, 3-page web application that allows users to browse a catalog of guitars from various brands and view detailed information about specific models.</em>
@@ -16,7 +12,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Browse Brands:** A homepage displaying a grid of top guitar brands.
 - **View Models:** A dedicated page for each brand, listing all available guitar models.
@@ -28,7 +24,7 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <div align="center">
   <table>
@@ -44,7 +40,7 @@
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -79,6 +75,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 - **Brikenda Zogaj** - [GitHub Profile](https://github.com/Brikenda-Zogaj)
