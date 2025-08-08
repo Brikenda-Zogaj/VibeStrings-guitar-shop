@@ -37,7 +37,7 @@
       <td valign="top"><img src="./screenshots/Page2.png" alt="Models Page" width="400"/></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="./screenshots/Photo3.png" alt="Details Page" width="400"/></td>
+      <td colspan="2" align="center"><img src="./screenshots/Page3.png" alt="Details Page" width="400"/></td>
     </tr>
   </table>
 </div>
